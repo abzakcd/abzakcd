@@ -1,9 +1,9 @@
 # Yanal Abzak 
 
 Full Stack Developer with extensive experience in web development and hardware technologies:
-- **Node.js**: Developing server-side web applications with a focus on real-time performance.
+- **Node.js**: Developing server-side web applications.
 - **Arduino**: Creating hardware-based projects and Internet of Things (IoT) solutions.
-- **C#**: Developing desktop applications, web applications, and games in an object-oriented environment.
+- **C#**: Developing web applications in an object-oriented environment.
 
 ---
 
@@ -28,10 +28,6 @@ Full Stack Developer with extensive experience in web development and hardware t
 <img src="https://github-readme-stats.vercel.app/api?username=abzakcd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="abzakcd's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzakcd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="abzakcd's GitHub Stats" />
 </p>
-## 📫 Contact Me
-
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yanalabzak/))
-
 ---
 
 
