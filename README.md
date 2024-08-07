@@ -26,8 +26,8 @@ Full Stack Developer with extensive experience in web development and hardware t
 ## 📈 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=abzakcd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="abzakcd's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abzakcd&theme=vue-dark&hide_border=true" alt="abzakcd's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abzakcd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="abzakcd's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abzakcd&theme=vue-dark&hide_border=true" alt="abzakcd's GitHub Stats" />
 </p>
 ## 📫 Contact Me
 
